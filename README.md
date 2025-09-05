@@ -35,7 +35,7 @@
 - 🎬 [Movie App (React Native)](https://github.com/RaghavGupta2910/MovieApp-ReactNative)
 - 🎲 [Blackjack Game](https://github.com/RaghavGupta2910/LearnJs_smallprojects/tree/main/JS/blackjack)
 - 🎰 [Slot Machine](https://github.com/yourusername/miniconceptualprojects/tree/main/slot-machine)
-- 👨‍💻 [Passenger Counter]((https://github.com/RaghavGupta2910/LearnJs_smallprojects/tree/main/JS/passenger-counter))
+- 👨‍💻 [Passenger Counter](https://github.com/RaghavGupta2910/LearnJs_smallprojects/tree/main/JS/passenger-counter)
 - 🔖 [Chrome Extension](https://github.com/RaghavGupta2910/LearnJs_smallprojects/tree/main/JS/slotmachine)
 - 📚 [Learning DSA in C++](https://github.com/RaghavGupta2910/LearningDSA)
   
@@ -49,6 +49,7 @@
 ⸻
 
 🤝 Connect with Me
+
 [![LinkedIn](https://www.linkedin.com/in/raghav-gupta-735365317/)
 
 ⸻
